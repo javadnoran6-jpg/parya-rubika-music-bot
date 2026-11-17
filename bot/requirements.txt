@@ -1,0 +1,5 @@
+aiohttp>=3.9.5
+rubpy>=7.1.0
+yt-dlp>=2024.8.6
+mutagen>=1.47.0
+python-dotenv>=1.0.1
